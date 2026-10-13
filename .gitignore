@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit local runtime settings
+.streamlit/
+
+# Temporary and local OS files
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+
+

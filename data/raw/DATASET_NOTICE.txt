@@ -1,0 +1,15 @@
+CH30 CAMPUS FACILITY INSIGHT -- DATASET NOTICE
+=====================================================
+LABEL: SYNTHETIC DEMO DATA
+
+All files in this directory (facilities.csv, bookings.csv, occupancy.csv,
+calendar.csv, maintenance.csv) contain entirely synthetic campus facility
+usage data generated for software testing and DS Sprint evaluation.
+
+IMPORTANT RULES & TRANSPARENCY:
+1. These records are NOT actual campus measurements.
+2. Controlled data-quality anomalies have been intentionally injected
+   for pipeline testing (missing readings, duplicate bookings, inconsistent
+   casing, capacity exceedances, and missing maintenance downtime).
+3. For official submission, replace these files with official assessment data
+   maintaining the required column schemas.

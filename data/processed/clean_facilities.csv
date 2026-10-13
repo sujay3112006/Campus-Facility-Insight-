@@ -1,0 +1,9 @@
+facility,type,capacity,block
+CL-A101,Classroom,60,A
+CL-A102,Classroom,45,A
+CL-B201,Classroom,70,B
+LAB-C1,Laboratory,35,C
+LAB-C2,Laboratory,28,C
+LIB-MAIN,Library,120,M
+AUD-1,Auditorium,200,D
+STUDY-1,Study Room,20,M
